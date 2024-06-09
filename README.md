@@ -23,19 +23,18 @@ To run this project on your local machine, follow these steps:
 - Python 3.x
 - Install the required libraries using the following command:
 
-```bash
+``bash
 pip install speechrecognition pyttsx3 pywhatkit wikipedia pyjokes psutil googlesearch-python
 
 ## Running the Voice Assistant
 1. Clone the repository:
 
-```bash
+``bash
 git clone https://github.com/yourusername/alexa-voice-assistant-clone.git
 cd alexa-voice-assistant-clone
 
 2. Run the Python file:
-```bash
-Copy code
+``bash
 python alexa_voice_assistant.py
 
 3. The assistant will start listening for commands. Use the keyword "Alexa" followed by your command. For example:
